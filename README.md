@@ -1,5 +1,5 @@
 # Intangible Economy Profiles - Data Visualization 
-### Download HTML raw file in case you want to see the latest interactive version of the code in WIIH_Visualizations.html
+### Download the HTML raw file in case you want to see the latest interactive version of the code in WIIH_Visualizations.html
 
 ## Summary
 The WIIH Intangible Economy Profiles are the organization's first data visualization product built entirely in-house with AI assistance. They cover 29 economies and were produced without outsourcing any work. Each profile turns harmonized data on intangible investment into a short visual story for policymakers: how much an economy invests in intangible assets, which asset types lead, and how it compares with other economies over time.
